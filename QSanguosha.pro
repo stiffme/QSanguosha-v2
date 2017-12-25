@@ -7,7 +7,7 @@ QT += qml quick
 TEMPLATE = app
 
 CONFIG += lua
-
+CONFIG += audio
 CONFIG -= flat
 
 CONFIG += precompile_header

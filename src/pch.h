@@ -22,7 +22,7 @@
 #include <QtQml/QQmlContext>
 #endif
 
-//#include <fmod.hpp>
+#include <fmod.hpp>
 
 #endif
 
